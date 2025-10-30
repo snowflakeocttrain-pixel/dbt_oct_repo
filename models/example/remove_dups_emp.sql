@@ -1,0 +1,1 @@
+{{get_unique_sql('employees','emp_id','NA')}}
