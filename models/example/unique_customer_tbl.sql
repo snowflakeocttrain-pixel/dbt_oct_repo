@@ -1,0 +1,1 @@
+{{  get_unique_sql('CUSTOMERS','CUSTOMER_ID','NA') }}
